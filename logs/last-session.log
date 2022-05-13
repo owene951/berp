@@ -1,0 +1,47 @@
+
+           ______        ______  ______  
+          (____  \      (_____ \(_____ \ 
+           ____)  )_____ _____) )_____) )
+          |  __  (| ___ |  __  /|  ____/ 
+          | |__)  ) ____| |  \ \| |      
+          |______/|_____)_|   |_|_|      
+                                 
+  
+<05/13/22 10:58:07> [BeRP] [Info] Preparing Modules...
+<05/13/22 10:58:07> [Protocol Compiler] [Info] Proto data detected, skipping compiler. Use "recompile" to recompile the proto def's!
+<05/13/22 10:58:07> [Network Manager] [Success] Initialized
+<05/13/22 10:58:07> [Sequential Bucket] [Success] Bucket Initialized
+<05/13/22 10:58:07> [Auth Handler] [Success] Auth Provider Prepared
+<05/13/22 10:58:07> [Auth Handler] [Success] Auth Provider App Created
+<05/13/22 10:58:07> [CLI Command Handler] [Success] Type "help" for a list of commands.
+<05/13/22 10:58:09> [Plugin Manager] [Info] Successfully loaded plugin "autoMod"
+<05/13/22 10:58:22> [Plugin Manager] [Warn] Plugin "RealmsCord" is in dev mode. Set devMode to false in package.json to disable
+<05/13/22 10:58:22> [Plugin Manager] [Info] Attempting to build "RealmsCord"
+<05/13/22 10:58:39> [Plugin Manager] [Info] Successfully built "RealmsCord"
+<05/13/22 10:58:39> [Plugin Manager] [Info] Successfully loaded plugin "RealmsCord"
+<05/13/22 10:58:55> [RealmsCord (Init)] [Info] Discord-MC Bridge loaded!
+<05/13/22 10:58:55> [RealmsCord (Init)] [Info] Attempting auto-connection with realm...
+<05/13/22 10:59:00> [Connection Manager (lilym.ae897@gmail.com)] [Success] Initialized
+<05/13/22 10:59:07> [Connection Handler (lilym.ae897@gmail.com:10402481)] [Success] Initialized
+<05/13/22 10:59:12> [RealmsCord 10402481] [Info] Discord-MC Bridge enabled! (onEnabled)
+<05/13/22 10:59:12> [RealmsCord 10402481] [Info] Discord-MC Bridge connecting to Discord Client...
+<05/13/22 10:59:12> [RealmsCord 10402481] [Info] Discord-MC Bridge login complete.
+<05/13/22 10:59:13> [autoMod 10402481] [Info] LST Vibez is not device spoofing!
+<05/13/22 10:59:13> [RealmsCord 10402481] [Info] Discord-MC Bridge Client Ready, setting activity...
+<05/13/22 10:59:13> [RealmsCord 10402481] [Info] Discord-MC Bridge Activity set.
+<05/13/22 10:59:13> [RealmsCord 10402481] [Info] Now bridged with Discord as Blazed Logs
+<05/13/22 10:59:13> [autoMod 10402481] [Info] Not in TP0 is not device spoofing!
+<05/13/22 11:00:52> [autoMod 10402481] [Info] Volt ctrl u is not device spoofing!
+<05/13/22 11:03:03> [RealmsCord 10402481] [Success] Received new message event from the Realms client:
+<05/13/22 11:03:03> [RealmsCord 10402481] [Success]    "Lst"
+<05/13/22 11:03:11> [RealmsCord 10402481] [Success] Received new message event from the Realms client:
+<05/13/22 11:03:11> [RealmsCord 10402481] [Success]    "Yh"
+<05/13/22 11:03:18> [RealmsCord 10402481] [Success] Received new message event from the Realms client:
+<05/13/22 11:03:18> [RealmsCord 10402481] [Success]    "Can I use ur smelter"
+<05/13/22 11:03:38> [RealmsCord 10402481] [Success] Received new message event from the Realms client:
+<05/13/22 11:03:38> [RealmsCord 10402481] [Success]    "Sure"
+<05/13/22 11:03:38> [RealmsCord 10402481] [Success] Received new message event from the Realms client:
+<05/13/22 11:03:38> [RealmsCord 10402481] [Success]    "Then out xd"
+<05/13/22 11:03:44> [RealmsCord 10402481] [Success] Received new message event from the Realms client:
+<05/13/22 11:03:44> [RealmsCord 10402481] [Success]    "Alr"
+<05/13/22 11:14:51> [autoMod 10402481] [Info] JOHNSLAYER12 is not device spoofing!

@@ -1,14 +1,1 @@
 node_modules
-package-lock.json
-*error.log
-dist/
-.env
-logs/
-msal-cache/
-read.js
-write.js
-size.js
-scripts
-# Ignore All Protcol Version Except Latest
-*.*.*/
-.vs/*
